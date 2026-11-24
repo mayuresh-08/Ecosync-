@@ -15,17 +15,21 @@ Calculate estimated CO₂ emissions. Track emissions from electricity and LPG us
 
 🛠️ Technologies Used 
 
-Python3
+Python3 :- Core stoichiometric emission calculation engine.
 
-Streamlit
+Streamlit :-  Interactive sliders, dropdowns, instant web UI.​
 
-pandas
+GitHub: Version control and cloud app deployment.​
 
-datetime (standard library)
+pandas :- Category breakdowns and benchmark charts.​
 
-Custom HTML + CSS
+datetime (standard library) :-  Standard Library) Report timestamps in IST.​
 
-ReportLab
+Custom HTML + CSS :- Dark-green glass-card theme, score ring, KPI tiles, animated emission bars
+
+ReportLab :- Generates the downloadable PDF report (layout, tables, vector bar chart)
+
+io.BytesIO: Builds the PDF in memory and serves it through `st.download_button`​
 
 👥 Project 
 
