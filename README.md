@@ -5,8 +5,9 @@ L&T Project
 📌 About
 
 A web-based application designed to calculate an individual's estimated carbon footprint based on everyday activities and lifestyle choices. It aims to promote environmental awareness and encourage sustainable living.
+Prototype Link :- https://hefcacrnltx2teacg5apww.streamlit.app/
 
-
+Alternate Prototype Link :- https://ecosync-carbon-calculator.streamlit.app/
 
 ✨ Features 
 
@@ -34,3 +35,4 @@ io.BytesIO: Builds the PDF in memory and serves it through `st.download_button`�
 👥 Project 
 
 Developed for an L&T project.
+  
